@@ -1,5 +1,5 @@
 - I’m @ArandomHitman
-- Some idiot somewhere in Canada
+- Tinkerer, Tech Enthusiast, Biker, and Amateur Photographer in one
 - Wants to develop games and learn C/C++ for game development and Java for modding Minecraft
 
 <!---
